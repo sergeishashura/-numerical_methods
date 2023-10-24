@@ -1,0 +1,3 @@
+/Users/sergejsasura/Desktop/LABA_1_/cmake-build-debug/CMakeFiles/LABA_1_.dir
+/Users/sergejsasura/Desktop/LABA_1_/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergejsasura/Desktop/LABA_1_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
